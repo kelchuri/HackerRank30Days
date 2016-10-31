@@ -1,0 +1,8 @@
+inputString = raw_input()
+
+def printString(input):
+    print "Hello, World."
+    print input
+
+
+printString(inputString)
