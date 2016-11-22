@@ -14,7 +14,7 @@ class Solution:
     def popCharacter(self):
         return self.stack.pop(len(self.queue)-1)
 
-    def dequeueCharacter(self):
+    def dequeuqeCharacter(self):
         return self.queue.pop()
     # Write your code here
 
